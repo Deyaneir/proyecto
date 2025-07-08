@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  background-color: #e3f2fd;
+  color: #0d47a1;
+  text-align: center;
+  padding: 2rem;
+}
+
+.container {
+  background-color: #bbdefb;
+  padding: 2rem;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0 0 10px #90caf9;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.length-control {
+  margin: 1rem 0;
+}
+
+button {
+  background-color: #1976d2;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+  margin: 0 0.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1565c0;
+}
+
+.timer {
+  background-color: #e3f2fd;
+  padding: 1rem;
+  margin: 1rem auto;
+  border-radius: 5px;
+}
+
+#time-left {
+  font-size: 2rem;
+  margin-top: 0.5rem;
+}
+
+.controls {
+  margin-top: 1rem;
+}
